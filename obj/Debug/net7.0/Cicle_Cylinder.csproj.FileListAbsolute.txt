@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C# course\Exam3\Cicle_Cylinder\bin\Debug\net7.0\Cicle_Cylinder.exe
+C:\Users\User\Desktop\C# course\Exam3\Cicle_Cylinder\bin\Debug\net7.0\Cicle_Cylinder.deps.json
+C:\Users\User\Desktop\C# course\Exam3\Cicle_Cylinder\bin\Debug\net7.0\Cicle_Cylinder.runtimeconfig.json
+C:\Users\User\Desktop\C# course\Exam3\Cicle_Cylinder\bin\Debug\net7.0\Cicle_Cylinder.dll
+C:\Users\User\Desktop\C# course\Exam3\Cicle_Cylinder\bin\Debug\net7.0\Cicle_Cylinder.pdb
+C:\Users\User\Desktop\C# course\Exam3\Cicle_Cylinder\obj\Debug\net7.0\Cicle_Cylinder.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# course\Exam3\Cicle_Cylinder\obj\Debug\net7.0\Cicle_Cylinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# course\Exam3\Cicle_Cylinder\obj\Debug\net7.0\Cicle_Cylinder.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# course\Exam3\Cicle_Cylinder\obj\Debug\net7.0\Cicle_Cylinder.AssemblyInfo.cs
+C:\Users\User\Desktop\C# course\Exam3\Cicle_Cylinder\obj\Debug\net7.0\Cicle_Cylinder.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# course\Exam3\Cicle_Cylinder\obj\Debug\net7.0\Cicle_Cylinder.dll
+C:\Users\User\Desktop\C# course\Exam3\Cicle_Cylinder\obj\Debug\net7.0\refint\Cicle_Cylinder.dll
+C:\Users\User\Desktop\C# course\Exam3\Cicle_Cylinder\obj\Debug\net7.0\Cicle_Cylinder.pdb
+C:\Users\User\Desktop\C# course\Exam3\Cicle_Cylinder\obj\Debug\net7.0\Cicle_Cylinder.genruntimeconfig.cache
+C:\Users\User\Desktop\C# course\Exam3\Cicle_Cylinder\obj\Debug\net7.0\ref\Cicle_Cylinder.dll
